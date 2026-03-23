@@ -1,11 +1,11 @@
 ### Hi, I'm Hassan 👋
 
-Engineer by instinct. I started with hydraulic models and levee calculations,
-got curious about data, and kept going — pipelines, cloud infrastructure,
-observability. Each area pulled me deeper into the next.
+**Engineer by instinct, driven by curiosity.**
 
-Right now I'm focused on **platform engineering** and **DataOps** —
-building the systems that other engineers depend on without thinking about it.
+I’m naturally drawn to understanding how things work—how systems connect, interact, and function as a whole. 
+This curiosity led me to pursue a degree in Civil Engineering, followed by Data Science, and ultimately into my current role as a Data Engineer at Capgemini.
+
+Currently, I’m focused on platform engineering and DataOps: building the foundational systems and infrastructure that other engineers rely on seamlessly, often without even noticing.
 
 ---
 
