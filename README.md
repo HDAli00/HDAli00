@@ -9,16 +9,9 @@ Currently, I’m focused on platform engineering and DataOps: building the found
 
 ---
 
-**Currently working on**
-- 🟠 Terraform Associate 004 — April 2026
-- ☸️ KCNA — late April 2026
-- ☁️ AWS Solutions Architect Associate — July 2026
-- ⎈ CKAD — December 2026
-
 **Stack I work with**
-
+ `Python` `AWS` `Azure` `Databricks` `PySpark` `Docker` `Helm` `GitHub Actions`
 `OpenTelemetry` `Grafana` `Kubernetes` `Terraform` `Ansible` `Jenkins`
-`AWS` `Azure` `Databricks` `PySpark` `Docker` `Helm` `GitHub Actions` `Python`
 
 ---
 
