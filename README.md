@@ -15,4 +15,4 @@ Currently, I’m focused on platform engineering and DataOps: building the found
 
 ---
 
-🌐 [hdali00.github.io](https://hdali00.github.io) · follow the build in public journey
+
