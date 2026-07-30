@@ -15,4 +15,6 @@ Currently, I’m focused on platform engineering and DataOps: building the found
 
 ---
 
+Personal website: https://www.hdali.cloud/
+
 
